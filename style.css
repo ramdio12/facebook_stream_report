@@ -125,10 +125,10 @@ padding: 10px 0;
     width: 100%;
     text-align: center;
     background-color: #000;
-    position: sticky;
+    /* position: sticky;
     bottom: 0;
     left: 0;
-    right: -20px;
+    right: -20px; */
     margin-top: 20px;
     
 }
