@@ -16,4 +16,4 @@ HTML and CSS
 
 ## FACEBOOK STREAM IMAGE
 
-![Alt text](app%fbstreamreport.jpg)<br>
+![Alt text](fbstreamreport.jpg)<br>
